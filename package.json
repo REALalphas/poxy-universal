@@ -1,0 +1,19 @@
+{
+  "name": "poxy-universal",
+  "version": "1.0.0",
+  "description": "This is the development branch of the repository. As such, it is important to note that the code contained there is in early stages, which may result in potential instability and the presence of bugs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/REALalphas/poxy-universal.git"
+  },
+  "author": "AlphaS",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/REALalphas/poxy-universal/issues"
+  },
+  "homepage": "https://github.com/REALalphas/poxy-universal#readme"
+}
